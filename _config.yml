@@ -14,7 +14,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "1.JPG"
+  avatar           : "1.jpg"
   name             : "Shengbo Xiong"
   pronouns         : # example: "she/her"  
   bio              : "Tianjin University of Technology"
